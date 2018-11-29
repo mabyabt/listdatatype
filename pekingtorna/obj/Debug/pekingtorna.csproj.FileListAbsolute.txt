@@ -1,0 +1,7 @@
+J:\csharp\pekingtorna\pekingtorna\bin\Debug\pekingtorna.exe.config
+J:\csharp\pekingtorna\pekingtorna\bin\Debug\pekingtorna.exe
+J:\csharp\pekingtorna\pekingtorna\bin\Debug\pekingtorna.pdb
+J:\csharp\pekingtorna\pekingtorna\obj\Debug\pekingtorna.csprojAssemblyReference.cache
+J:\csharp\pekingtorna\pekingtorna\obj\Debug\pekingtorna.csproj.CoreCompileInputs.cache
+J:\csharp\pekingtorna\pekingtorna\obj\Debug\pekingtorna.exe
+J:\csharp\pekingtorna\pekingtorna\obj\Debug\pekingtorna.pdb
